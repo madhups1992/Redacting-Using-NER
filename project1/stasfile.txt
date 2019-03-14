@@ -1,0 +1,8 @@
+Statistics:
+       File_name  name  date  phone  gender  address  concepts
+    
+2002-GWBush.txt  -  30     13     0     28      0      4
+
+2003-GWBush.txt  -  14     41     0     74      0      1
+
+stasfile.txt  -  0     4     0     0      0      0
