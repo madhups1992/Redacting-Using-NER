@@ -1,6 +1,5 @@
 # cs5293sp19-project1
 
-# cs5293sp19-project0
 Madhumitha Pachapalayam Sivasalapathy
 
 Run the code :
